@@ -55,7 +55,7 @@ log_CC50 = log1p(CC50)
 | CC50 RMSE | 473.39 |
 
 ## Структура репозитория
-
+```bash
 ChemAI-Predict-The-Cure/
 │
 ├── code/
@@ -72,7 +72,7 @@ ChemAI-Predict-The-Cure/
 │
 ├── README.md
 └── requirements.txt
-
+```
 ## Запуск
 
     bash
