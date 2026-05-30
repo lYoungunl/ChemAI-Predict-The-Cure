@@ -56,20 +56,25 @@ log_CC50 = log1p(CC50)
 
 ## Структура репозитория
 
+ChemAI-Predict-The-Cure/
+│
 ├── code/
 │ └── ML.ipynb
-├── data/
+│
 ├── submissions/
 │ ├── submission_lightgbm.csv
 │ ├── submission_xgboost.csv
 │ ├── lightgbm_ensemble.csv
 │ └── submission_ensemble.csv
+│
 ├── presentation/
+│ └── project_presentation.pptx
+│
 ├── README.md
 └── requirements.txt
 
 ## Запуск
 
     bash
-pip install -r requirements.txt
-python code/ML.ipynb
+ - pip install -r requirements.txt
+ - python code/ML.ipynb
