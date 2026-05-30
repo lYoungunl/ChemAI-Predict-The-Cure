@@ -1,11 +1,14 @@
-```gitignore
 # Данные (не загружаем на GitHub)
 data/
 *.csv
 
-# Jupyter Notebook
+# Исключаем csv (кроме файлов предсказаний)
+!submissions/*.csv
+
+# Jupyter Notebook (кроме основного кода)
 .ipynb_checkpoints/
 *.ipynb
+!code/ML.ipynb
 
 # Файлы Python
 __pycache__/
