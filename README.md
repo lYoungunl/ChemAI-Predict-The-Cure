@@ -59,16 +59,16 @@ log_CC50 = log1p(CC50)
 ChemAI-Predict-The-Cure/
 │
 ├── code/
-│ └── ML.ipynb
+│   └── ML.ipynb
 │
 ├── submissions/
-│ ├── submission_lightgbm.csv
-│ ├── submission_xgboost.csv
-│ ├── lightgbm_ensemble.csv
-│ └── submission_ensemble.csv
+│   ├── submission_lightgbm.csv
+│   ├── submission_xgboost.csv
+│   ├── lightgbm_ensemble.csv
+│   └── submission_ensemble.csv
 │
 ├── presentation/
-│ └── project_presentation.pptx
+│   └── project_presentation.pptx
 │
 ├── README.md
 └── requirements.txt
